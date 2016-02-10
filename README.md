@@ -17,7 +17,7 @@ All work is licensed under the conditions of the MIT License (MIT), the full tex
 A recent version of the PDF version of this logbook sheet can be found [here](http://dc2zp.de/plain-log-a5.pdf).
 
 ## Dependencies
-These packages are needed as dependency if you use a TeX-Light distribution:
+These packages are needed as dependency if you use the BasicTeX distribution:
 - german
 - todonotes
 - array
