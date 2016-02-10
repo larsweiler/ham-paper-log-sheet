@@ -15,3 +15,11 @@ All work is licensed under the conditions of the MIT License (MIT), the full tex
 
 ## Download
 A recent version of the PDF version of this logbook sheet can be found [here](http://dc2zp.de/plain-log-a5.pdf).
+
+## Dependencies
+These packages are needed as dependency if you use a TeX-Light distribution:
+- german
+- todonotes
+- array
+- geometry
+- xcolor
